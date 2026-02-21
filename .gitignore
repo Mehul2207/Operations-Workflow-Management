@@ -6,6 +6,9 @@ backend/.env
 frontend/node_modules/
 frontend/.next/
 
+#Others
+docs.txt
+
 # General
 node_modules/
 .env
